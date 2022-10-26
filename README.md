@@ -69,3 +69,7 @@ For any additional questions on the task please feel free to email
 `sundara.amancharla@aspaara.com`.
 
 We are looking forward to see what insights you can gain from the data!
+
+## How to run
+
+The file has to be opened with jupyter notebook. Additionally, it needs to be in the same folder as the json file.
